@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/cadlab/PycharmProjects/GAN_Architec/model.ckpt"
+all_model_checkpoint_paths: "/home/cadlab/PycharmProjects/GAN_Architec/model.ckpt"
